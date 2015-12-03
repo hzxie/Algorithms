@@ -9,8 +9,8 @@ If you have any questsion, please feel free to contact me.
 ## Algorithm
 
 - [x] [Convex Hull](https://github.com/zjhzxhz/Algorithm/tree/master/ConvexHull)
-- [ ] [Hamilton Cycle](https://github.com/zjhzxhz/Algorithm/tree/master/HamiltonCycle)
-- [ ] [0/1 Knapsack](https://github.com/zjhzxhz/Algorithm/tree/master/Knapsack)
+- [x] [Hamilton Cycle](https://github.com/zjhzxhz/Algorithm/tree/master/HamiltonCycle)
+- [x] [0/1 Knapsack](https://github.com/zjhzxhz/Algorithm/tree/master/Knapsack)
 - [ ] Apriori
 - [ ] FP Growth
 - [ ] ID3
