@@ -12,8 +12,8 @@ If you have any questsions, please feel free to contact me.
 - [x] [Hamilton Cycle](https://github.com/zjhzxhz/Algorithm/tree/master/HamiltonCycle)
 - [x] [0/1 Knapsack](https://github.com/zjhzxhz/Algorithm/tree/master/Knapsack)
 - [x] [Apriori](https://github.com/zjhzxhz/Algorithm/tree/master/Apriori)
-- [ ] FP Growth
+- [x] [FP Growth](https://github.com/zjhzxhz/Algorithm/tree/master/FpGrowth)
 - [ ] ID3
 - [ ] KMeans
-- [ ] BIRCH
+- [ ] Agglomerative Clustering
 - [ ] DBSCAN
