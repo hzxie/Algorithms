@@ -15,5 +15,5 @@ If you have any questsions, please feel free to contact me.
 - [x] [FP Growth](https://github.com/zjhzxhz/Algorithm/tree/master/FpGrowth)
 - [ ] ID3
 - [x] [KMeans](https://github.com/zjhzxhz/Algorithm/tree/master/KMeans)
-- [ ] Agglomerative Clustering
+- [x] [AGNES](https://github.com/zjhzxhz/Algorithm/tree/master/AGNES)
 - [ ] DBSCAN
