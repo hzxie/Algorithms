@@ -37,7 +37,7 @@ Run following command in terminal:
 java Agnes n
 ```
 
-**Run GUI Version **
+**Run GUI Version**
 
 ```
 java AgnesGui k

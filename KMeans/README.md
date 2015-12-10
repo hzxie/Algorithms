@@ -29,7 +29,7 @@ Run following command in terminal:
 java KMeans n k
 ```
 
-**Run GUI Version **
+**Run GUI Version**
 
 ```
 java KMeansGui n k
